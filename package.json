@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ibrahim-rumi.lwc-kzoy5ocb-fork-kzoy6qcd",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve R3HJMNMP7VWcyrgtpq2G --open"
+  }
+}
